@@ -1,6 +1,6 @@
-# STUDENT MARKLIST MANAGEMENT SYSTEM
+# STUDENT REPORT PROJECT
 
-The Student Marklist Management System is a Python-based program that allows users to manage student information, record marks, and generate academic reports.
+The Student Report project is a Python-based program that allows users to manage student information, record marks, and generate academic reports.
 
 ## Features
 
@@ -19,8 +19,8 @@ The Student Marklist Management System is a Python-based program that allows use
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/student-marklist-management.git
-    cd student-marklist-management
+    git clone https://github.com/megha-jk/Student-Report-project
+    cd Student-Report-project
     ```
 
 2. Install the required packages:
@@ -32,7 +32,7 @@ The Student Marklist Management System is a Python-based program that allows use
 3. Run the program:
 
     ```
-    python main.py
+    python3 student_marks.py
     ```
 
 4. Follow the on-screen menu to interact with the program.
@@ -55,6 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- Your Name
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- Megha Jayakumar
+- GitHub: [@megha-jk](https://github.com/megha-jk)
+- Email: megha2074@outlook.com
