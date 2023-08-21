@@ -45,14 +45,6 @@ The Student Report project is a Python-based program that allows users to manage
 - Reports can be generated for individual students or class statistics.
 - The program uses the `openpyxl` library to manage Excel files.
 
-## Contributing
-
-Contributions to this project are welcome! You can contribute by submitting bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 - Megha Jayakumar
